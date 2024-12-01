@@ -11,7 +11,7 @@ operation in the table described below. Usage limits apply and are provided alon
 
 Paid credentials enable a greater processing quota and require entering
 into a separate written agreement. To learn more, please see the
-[pricing page](/document-services/pricing/#main)
+[pricing page](/document-services/pr7icing/#main)
 for purchase options.
 
 <InlineAlert slots="text"/>
